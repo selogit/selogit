@@ -33,7 +33,7 @@ Innowacyjny projekt gry detektywistycznej, w której gracz prowadzi otwarte śle
 
 ---
 
-## 💻 Technologie i Narzędzia, które znam
+## 💻 Technologie i Narzędzia, które wykorzystuje
 
 **Frontend:**
 *   HTML5 & CSS3
@@ -55,6 +55,6 @@ Innowacyjny projekt gry detektywistycznej, w której gracz prowadzi otwarte śle
 
 ---
 
-## 📫 Jak się ze mną skontaktować?
+## 📫 Kontakt
 
 *   **Email:** [m.rosloniec5@gmail.com](mailto:m.rosloniec5@gmail.com)
