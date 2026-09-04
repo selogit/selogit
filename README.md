@@ -1,6 +1,6 @@
 # Cześć! 👋
 
-Jestem początkującym programistą z pasją do tworzenia interaktywnych aplikacji webowych. Skupiam się na technologiach frontendowych oraz podstawach backendu (Node.js), ze szczególnym uwzględnieniem komunikacji w czasie rzeczywistym. Lubię tworzyć projekty, z których ludzie mogą od razu korzystać i się przy nich dobrze bawić.
+Tworzę interaktywne aplikacje i gry, stawiając na angażujące doświadczenia użytkowników. Moje doświadczenie obejmuje technologie webowe (od frontendu po backend w Node.js i komunikację real-time), ale chętnie eksploruję też nowe obszary – takie jak GameDev (Unity, C#) oraz integracja sztucznej inteligencji i modeli językowych (Python, FastAPI). Niezależnie od technologii, moim celem zawsze jest dostarczanie projektów, które są gotowe do działania i dają ludziom mnóstwo frajdy.
 
 ---
 
